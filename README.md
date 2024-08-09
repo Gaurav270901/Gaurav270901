@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer Intern @HarbingerGroup
+Software Engineer @HarbingerGroup
 
 
 ## 🌐 Socials:
